@@ -1,0 +1,6 @@
+{
+  "name": "StudyCafe Quest",
+  "description": "Redmineライクな階層化タスク管理とカフェ育成ゲーミフィケーションを組み合わせた資格学習支援アプリ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
